@@ -1,0 +1,8 @@
+train: /mnt/hdd_2T/ryan/kwater/mods/images/train
+val: /mnt/hdd_2T/ryan/kwater/mods/images/valid
+test: /mnt/hdd_2T/ryan/kwater/mods/images/test
+
+nc: 8
+
+#names: [ '농어','베스','숭어','강준치','블루길','잉어','붕어','누치' ]
+names: [ '0','1','2','3','4','5','6','7' ]
