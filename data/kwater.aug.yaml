@@ -1,4 +1,4 @@
-train: /home/ryan/dataset/kwater/mods/images/train
+train: /home/ryan/dataset/kwater/mods_v2/augmentation_temp/images
 val: /home/ryan/dataset/kwater/mods/images/valid
 test: /home/ryan/dataset/kwater/mods/images/test
 
